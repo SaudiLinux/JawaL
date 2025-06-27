@@ -6,7 +6,6 @@ colorama>=0.4.6
 rich>=12.6.0
 termcolor>=2.1.1
 pyfiglet>=0.8.post1
-phoneinfoga>=2.0.8
 argparse>=1.4.0
 python-whois>=0.8.0
 dnspython>=2.2.1
