@@ -40,13 +40,15 @@ pydantic>=1.10.0
 # مكتبات فحص المواقع
 python-nmap>=0.7.1  # لفحص الشبكة
 wpwatcher>=2.0.0    # لفحص ووردبريس
+joomscan>=0.0.1     # لفحص جوملا
 osrframework>=0.1.0 # لميزات OSINT
 requests-html>=0.10.0
 wappalyzer>=0.4.0
 scrapy>=2.7.0
 
 # مكتبات فحص الثغرات
-xml-ripper>=0.0.1
+#xml-detector>=0.0.1
+#xml-ripper>=0.0.1
 sqlmap-python>=1.6.12
 
 # مكتبات التقارير
