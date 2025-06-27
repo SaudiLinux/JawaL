@@ -49,7 +49,7 @@ scrapy>=2.7.0
 # مكتبات فحص الثغرات
 #xml-detector>=0.0.1
 #xml-ripper>=0.0.1
-sqlmap-python>=1.6.12
+#sqlmap-python>=1.6.12
 
 # مكتبات التقارير
 prettytable>=3.5.0
